@@ -2,4 +2,3 @@
 
 10/18 Arudino intro
 
-![image info](./image.png)
